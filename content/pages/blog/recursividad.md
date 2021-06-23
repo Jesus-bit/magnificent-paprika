@@ -7,10 +7,10 @@ excerpt: >-
 date: '2021-06-22'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
-image: images/13.jpg
+image: https://ichi.pro/assets/images/max/724/1*g8oytHkTTwC68ucOIvlV9A.gif
 image_alt: Library shelves
 seo:
-  title: The function of design is letting design function
+  title: Recursividad
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
@@ -44,6 +44,6 @@ seo:
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
-
+##¿Qué es recursividad? Funciones que se llaman a sí mismas en el momento que se están ejecutando, es muy importante que tengas en cuenta que las debemos controlar para que no caiga en un loop infinito y no rompan el flujo normal de nuestra aplicación, debemos tener mucha precaución.
+Lo mejor es condicionarlas y usarlas sabiamente, para que solo se llamen a sí misma bajo una condición que tenga un fin y que luego de ese fin el flujo de la aplicación pueda continuar normalmente. un gif que lo podra explicar mas graficamente es el de la portada
 
