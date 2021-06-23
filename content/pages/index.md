@@ -10,16 +10,8 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - label: Contactarme
-        url: /contact
+        url: /about
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
