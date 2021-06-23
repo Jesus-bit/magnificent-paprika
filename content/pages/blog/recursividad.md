@@ -48,7 +48,8 @@ layout: post
   Son funciones que se llaman a sí mismas en el momento que se están ejecutando, es muy importante que tengas en cuenta que las debemos controlar para que no   caiga en un loop infinito y no rompan el flujo normal de nuestra aplicación, debemos tener mucha precaución.
   Lo mejor es condicionarlas y usarlas sabiamente, para que solo se llamen a sí misma bajo una condición que tenga un fin y que luego de ese fin el flujo de la aplicación pueda continuar normalmente. Un gif que lo podra explicar mas graficamente es el de la portada.
   **Un ejemplo en codigo (Python)**
-  `def cuentaRegresiva(numero):
+  `
+    def cuentaRegresiva(numero):
     numero = numero - 1 
 
     if(numero > 0):
@@ -58,14 +59,14 @@ layout: post
         print("Feliz año nuevo")
 
     cuentaRegresiva(10)
-9
-8
-7
-6
-5
-4
-3
-2
-1
-Feliz año nuevo`
+    9
+    8
+    7
+    6
+    5
+    4
+    3
+    2
+    1
+    Feliz año nuevo`
 
