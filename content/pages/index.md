@@ -5,21 +5,20 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Jesús Gómez y soy desarrollador Frontend.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Nunca pares de aprender
     actions:
       - label: Contactarme
         url: /about
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: Lo último del Blog
+    subtitle: Blog de tecnologia
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Ver Blog
         url: blog
         style: button
 seo:
