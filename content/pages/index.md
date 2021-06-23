@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - label: Contactarme
-        url: /
+        url: /about
         style: button
   - section_id: latest-posts
     type: section_posts
