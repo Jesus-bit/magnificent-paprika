@@ -51,6 +51,7 @@ layout: post
   
   **Un ejemplo en codigo (Python)**
   `  
+    
     def cuentaRegresiva(numero):
     numero = numero - 1 
 
