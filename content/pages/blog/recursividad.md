@@ -44,20 +44,22 @@ seo:
 layout: post
 ---
 
-  **¿Qué es recursividad?** 
+  **¿Qué es recursividad?**  
+  
+  
   Son funciones que se llaman a sí mismas en el momento que se están ejecutando, es muy importante que tengas en cuenta que las debemos controlar para que no   caiga en un loop infinito y no rompan el flujo normal de nuestra aplicación, debemos tener mucha precaución.
   Lo mejor es condicionarlas y usarlas sabiamente, para que solo se llamen a sí misma bajo una condición que tenga un fin y que luego de ese fin el flujo de la aplicación pueda continuar normalmente. Un gif que lo podra explicar mas graficamente es el de la portada.  
   
   
-  **Un ejemplo en codigo (Python)**
+  **Un ejemplo en codigo (Javascript)**
   `  
     
-    def cuentaRegresiva(numero):
-    numero = numero - 1 
+    Function cuentaRegresiva(numero);
+    numero = numero - 1 ;
 
-    if(numero > 0):
-        print(numero)
-        cuentaRegresiva(numero)
+    if(numero > 0);
+        console.log(numero);
+        cuentaRegresiva(numero);
     else:
         print("Feliz año nuevo")
 
@@ -71,5 +73,11 @@ layout: post
     3
     2
     1
-    Feliz año nuevo`
+    Feliz año nuevo`  
 
+
+  **Soluciones iterativas**
+  
+ para resolver el caso anterior de una forma iterativa quedaria como:
+ 
+ 
