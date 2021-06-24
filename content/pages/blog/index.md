@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: Aprende de tecnología.
 hide_title: false
 col_number: three
 seo:
