@@ -100,4 +100,14 @@ layout: post
  
  **Caso base**  
  
- Como veras para que en la solucion recursiva, no caiga en un loop infinito debe haber un indicador para que se detenga. A esto se le conoce **Caso base**
+ Como verás para que en la solución recursiva, no caiga en un loop infinito debe haber un indicador para que se detenga. En ese caso es cuando el número llega al cero. A esto se le conoce **Caso base**  
+ 
+ **Stack overflow**  
+ 
+ En la forma recursiva se van a tener que almacenar muchas veces una misma variable en memoria, así que esta variable va a ocupar varios espacios en memoria, mientras que en la forma iterativa solo se utiliza un solo espacio en memoria. Así que la recursividad puede provocar un desbordamiento de memoria si no se aplica de la forma correcta.  
+ 
+ **Cuando SI utilizar la recursividad**  
+ 
+ * Cuando se trabajen con estructuras de datos recursivas como arboles o listas
+ * Cuando la forma iterativa es mas compleja y produce mas codigo dificil de comprender
+ * En lenjuages o paradigmas de programacion orientados a recursividad.
