@@ -197,9 +197,7 @@ Las variables de entorno son valores dinámicos que afectan los procesos o se 
 
 *   env -Imprime las variables de entorno actuales
 
-
 *   echo $VAR -Imprime la variable de entorno VAR
-
 
 *   $PATH  -Variable donde están las rutas de los
     ejecutables
@@ -210,4 +208,4 @@ podrias crear varibles de entorno modificando el archivo .bashrc o .zshrc depend
 
 Y agregas una nueva linea que diga:
 
-alias nombreDelAlias = \`comandoEquivalente\`
+\`alias nombreDelAlias ='comandoEquivalente'\`
