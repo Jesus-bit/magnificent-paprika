@@ -1,6 +1,5 @@
 ---
 title: Terminal y lina de comandos
-subtitle: lorem-ipsum
 date: '2021-06-25'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
