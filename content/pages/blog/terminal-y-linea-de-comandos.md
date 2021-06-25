@@ -3,7 +3,7 @@ title: Terminal y lina de comandos
 date: '2021-06-25'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Aprende lo Básico de terminal
 seo:
   title: ''
   description: ''
