@@ -30,7 +30,7 @@ Es la ventana que aloja una shell. Una shell es una forma de comunicarnos direct
 
 ### Tipos de lineas de comandos
 
-Las mas populares son: 
+Las mas populares son:
 
 *   Bourne Shell
 
@@ -43,3 +43,55 @@ Las mas populares son:
 *   Korn Shell
 
 *   Fish Shell
+
+### Comandos Basicos de la terminal
+
+**Mostrar información del directorio: **
+
+**ls** :Lista el contenido de los directorios (por defecto ordena la salida alfabéticamente).
+
+**Alguna de sus opciones (argumentos) más útiles son:**
+
+*   **a** :todos los archivos, incluso los que comienzan con punto (.).
+
+*   **A** :Lista todos los ficheros en los directorios, excepto los que comienzan con punto . (.) y los que comienzan con doble punto (…).
+
+*   **F** :indica tipo: / directorio, \* ejecutable, @ enlace simbólico.
+
+*   **h** :indicará el tamaño en KB, MB, etc.
+
+*   **l** :listado en formato largo (o detallado).
+
+*   **S** :clasifica los contenidos de los directorios por tamaños, con los ficheros más grandes en primer lugar.
+
+*   **r** :invierte el orden de la salida.
+
+*   **R** :Lista recursivamente los subdirectorios encontrados.
+
+*   **t** :ordenar por fecha de última modificación.
+
+*   **u** :ordenar por fecha de último acceso.
+
+*   **x** :presenta los ficheros por columnas.
+
+*   **i** :precede la salida con el número de i-node
+
+Identificar la ruta en la que estamos en nuestro sistema:
+
+Movernos entre directorios:
+
+Crear un directorio:
+
+Copiar un archivo:
+
+Borrar un archivo:
+
+Mover un archivo:
+
+Borrar un directorio:
+
+Limpiar la terminal
+
+Atajo para limpiar pantalla
+
+**ctrl + l**
