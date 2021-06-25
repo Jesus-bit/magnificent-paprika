@@ -70,7 +70,7 @@ Las mas populares son:
 
 ### Comandos Basicos de la terminal
 
-\*\*Mostrar información del directorio: \*\*
+**Mostrar información del directorio: **
 
 **ls** :Lista el contenido de los directorios (por defecto ordena la salida alfabéticamente).
 
@@ -160,3 +160,6 @@ Entonces en resumen, el "  \*  " se expande de 0 a más caracteres, mientras q
     comando1 se ejecutó de manera exitosa
 
 *   comando1 || comando2  -Ejecuta el comando1 o el comando2
+
+# Cómo se manejan los permisos
+
