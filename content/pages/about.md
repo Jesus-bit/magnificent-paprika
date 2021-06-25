@@ -1,7 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
+subtitle: Esta es una breve descripción de mi y mi trabajo
 image_alt: A man taking a picture
 seo:
   title: About Us
