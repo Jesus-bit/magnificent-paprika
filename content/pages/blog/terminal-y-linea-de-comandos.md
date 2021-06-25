@@ -165,10 +165,21 @@ Entonces en resumen, el "  \*  " se expande de 0 a más caracteres, mientras q
 
 permisos de:
 
-*   r = read = lectura
+*   r = read = lectura = 4
 
-*   w= write = escritura
+*   w= write = escritura = 2
 
-*   x = executable = ejecutable
+*   x = executable = ejecutable = 1
 
-![](http://imagenes.mailxmail.com/cursos/imagenes/5/4/linux-unix-gestion-de-permisos-quinta-parte\_21945\_9\_1.jpg)
+Para cambiar los permisos se utiliza el comando chown (Change Owner) y luego un numero el numero que le des como parámetro dependerá de que permisos le quieres dar al archivo para saber que numero debe ser solo tienes que sumar los numero que tienen en octal cada permiso por ejemplo: ´chown archivo.txt 555´ el 5 es de lectura y ejecutable y se coloca tres veces por que cada una pertenece a un grupo, lo grupos que existen son:
+
+*   usuario
+
+*   grupo
+
+*   otros(world = mundo)
+
+El usuario es el dueño del archivo o quien lo creo. El grupo son los miembros de un grupo de usuarios. Otros son los usuarios que no están ni en en el grupo ni son propietarios
+
+
+
