@@ -76,21 +76,22 @@ Las mas populares son:
 
 *   **i** :precede la salida con el número de i-node
 
-Identificar la ruta en la que estamos en nuestro sistema:
+Identificar la ruta en la que estamos en nuestro sistema: pwd
 
-Movernos entre directorios:
 
-Crear un directorio:
+Movernos entre directorios:  >cd
 
-Copiar un archivo:
+Crear un directorio: >mkdir
 
-Borrar un archivo:
+Copiar un archivo:  >cp
 
-Mover un archivo:
+Borrar un archivo:  >rm
 
-Borrar un directorio:
+Mover un archivo:   >mv
 
-Limpiar la terminal
+Borrar un directorio:  >rmdir
+
+Limpiar la terminal:  >clear
 
 Atajo para limpiar pantalla
 
