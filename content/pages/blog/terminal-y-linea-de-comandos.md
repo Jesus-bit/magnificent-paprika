@@ -130,4 +130,4 @@ Las wildcards nos sirven para realizar seleccionamiento de archivos o directorio
 
 *   \> ls archivo? //mostrara todos los archivos que tengan el nombre "archivo" al inicio y al final tengan cualquier otro carácter pero solo uno
 
-Entonces en resumen, el "\*" se expande de 0 a más caracteres, mientras que "?" expande a uno exactamente.
+Entonces en resumen, el "  \*  " se expande de 0 a más caracteres, mientras que "?" expande a uno exactamente.
