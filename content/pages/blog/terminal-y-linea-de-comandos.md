@@ -179,7 +179,20 @@ Para cambiar los permisos se utiliza el comando chown (Change Owner) y luego un 
 
 *   otros(world = mundo)
 
-El usuario es el dueño del archivo o quien lo creo. El grupo son los miembros de un grupo de usuarios. Otros son los usuarios que no están ni en en el grupo ni son propietarios
+El usuario es el dueño del archivo o quien lo creo. El grupo son los miembros de un grupo de usuarios. Otros son los usuarios que no están ni en en el grupo ni son propietarios.
+
+## Alias en la terminal
+
+Los comandos alias de la terminal nos permiten crear comandos personalizados con nombres más cortos o fáciles de recordar. De esta manera, estos comandos alias pueden llamar comandos más complejos e incluso otros comandos alias. Estos alias son temporales y solo viven cuando la sesión en que hiciste el alias sigue viva.
+
+Para crear un alias: 
+
+**alias ‘nombreDelAlias’** = **‘comandoQueInvoca’**. 
+
+Por ejemplo: alias l=”ls -lh”.
+
+# Variables de entorno
 
 
+Las variables de entorno son valores dinámicos que afectan los procesos o se utilizan para el flujo de trabajo de la terminal. Existen en todos los sistemas operativos y su tipo puede variar. Las variables de entorno se pueden crear, editar, guardar y eliminar.
 
