@@ -207,3 +207,5 @@ podrias crear varibles de entorno modificando el archivo .bashrc o .zshrc depend
 \>nano .bashrc
 
 Y agregas una nueva linea que diga:
+
+\`Esto es una línea de código\`
