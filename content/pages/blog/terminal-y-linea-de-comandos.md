@@ -25,3 +25,19 @@ Es la ventana que aloja una shell. Una shell es una forma de comunicarnos direct
 *   Velocidad: es muy veloz para hacer procesos que necesites o tareas
 
 *   La interfaz gráfica hace que los procesos sean mas lentos
+
+### Tipos de lineas de comandos
+
+Las mas populares son: 
+
+*   Bourne Shell
+
+*   Bash Shell (Es la mas común)
+
+*   Z Shell
+
+*   C Shell
+
+*   Korn Shell
+
+*   Fish Shell
