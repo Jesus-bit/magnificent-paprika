@@ -131,3 +131,30 @@ Las wildcards nos sirven para realizar seleccionamiento de archivos o directorio
 *   \> ls archivo? //mostrara todos los archivos que tengan el nombre "archivo" al inicio y al final tengan cualquier otro carácter pero solo uno
 
 Entonces en resumen, el "  \*  " se expande de 0 a más caracteres, mientras que "?" expande a uno exactamente.
+
+## Redirecciones I/O y operadores de control:
+
+comando < archivo Redirige el input de un comando hacia un
+archivo
+
+*   comando > archivo Redirige la salida de un comando a un
+    archivo (usarse con cuidado porque
+    sobrescribe el sistema)
+
+*   comando >> archivo Concatena la salida de un comando a un
+    archivo. Si no existe lo crea.
+
+*   comando 2> error.txt Redirige la salida de error de un comando
+    al archivo error.txt
+
+*   comando1 | comando2 Redirige la salida del comando1 a la
+    entrada del comando2
+
+*   comando1; comando2 Ejecuta de manera consecutiva
+
+*   comando1 & comando2 Ejecuta de manera asíncrona
+
+*   comando1 && comando2 Ejecuta el comando2 si y solo si el
+    comando1 se ejecutó de manera exitosa
+
+*   comando1 || comando2 Ejecuta el comando1 o el comando2
