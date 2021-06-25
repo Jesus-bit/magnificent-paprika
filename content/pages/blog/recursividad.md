@@ -54,30 +54,50 @@ layout: post
   **Un ejemplo en codigo (Javascript)**
   `  
     
-    Function cuentaRegresiva(numero);
-    numero = numero - 1 ;
+    function cuentaRegresiva(numero){
+      numero = numero - 1 ;
 
-    if(numero > 0);
-        console.log(numero);
-        cuentaRegresiva(numero);
-    else:
-        print("Feliz año nuevo")
+      if(numero > 0);
+          console.log(numero);
+          cuentaRegresiva(numero);
+      else:
+          console.log("Feliz año nuevo")
 
-    cuentaRegresiva(10)
-    9
-    8
-    7
-    6
-    5
-    4
-    3
-    2
-    1
-    Feliz año nuevo`  
+      cuentaRegresiva(10)
+      9
+      8
+      7
+      6
+      5
+      4
+      3
+      2
+      1
+      Feliz año nuevo
+    }
+     
+    
+    `  
 
 
   **Soluciones iterativas**
   
- para resolver el caso anterior de una forma iterativa quedaria como:
+ para resolver el caso anterior de una forma iterativa quedaria como:  
  
+ `
+    
+    function cuentaRegresiva(numero){
+    
+      for(i = 1; i < numero; i++){
+        console.log(numero);
+      }
+      
+      console.log("Feliz año nuevo");
+    };
+    
  
+ `  
+ 
+ **Caso base**  
+ 
+ Como veras para que en la solucion recursiva, no caiga en un loop infinito debe haber un indicador para que se detenga. A esto se le conoce **Caso base**
