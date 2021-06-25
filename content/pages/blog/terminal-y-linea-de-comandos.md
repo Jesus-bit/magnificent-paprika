@@ -44,6 +44,18 @@ Las mas populares son:
 
 *   Fish Shell
 
+# ¿Qué es un comando?
+
+**Un comando puede ser 4 cosas:**
+
+*   Un programa ejecutable: que se compilo en algun lenguaje de programación y se puede ejecutar
+
+*   Un comando de utilidad de la shell.
+
+*   Una función de shell
+
+*   Un alias
+
 ### Comandos Basicos de la terminal
 
 \*\*Mostrar información del directorio: \*\*
