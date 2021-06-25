@@ -70,7 +70,7 @@ Las mas populares son:
 
 ### Comandos Basicos de la terminal
 
-**Mostrar información del directorio: **
+\*\*Mostrar información del directorio: \*\*
 
 **ls** :Lista el contenido de los directorios (por defecto ordena la salida alfabéticamente).
 
@@ -163,3 +163,12 @@ Entonces en resumen, el "  \*  " se expande de 0 a más caracteres, mientras q
 
 # Cómo se manejan los permisos
 
+permisos de:
+
+*   r = read = lectura
+
+*   w= write = escritura
+
+*   x = executable = ejecutable
+
+![](http://imagenes.mailxmail.com/cursos/imagenes/5/4/linux-unix-gestion-de-permisos-quinta-parte\_21945\_9\_1.jpg)
