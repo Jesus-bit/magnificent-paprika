@@ -208,4 +208,20 @@ podrias crear varibles de entorno modificando el archivo .bashrc o .zshrc depend
 
 Y agregas una nueva linea que diga:
 
-\`Esto es una línea de código\`
+\`
+
+alias Nombredelalias = 'comandoEquivalente'
+
+\`
+
+# Comandos de búsqueda
+
+which : este comando va a buscar los programas que tengas instalados en la variable de entorno PATH
+
+find: ARGUMENTOS
+
+*   \-type (d = directorios, f = archivo,)
+
+*   \-size (en MB GB B KB)
+
+El comando whereis (en español: ¿dónde está?), este comando es algo similar a which, pero mucho mejor. Este comando localiza los ficheros binarios, fuentes y páginas del manual de un programa, es decir, podemos decir que hace algo así como una “búsqueda mucho más profunda”, me encanta porque puedes saberlo casi todo sobre la ubicación de un programa
