@@ -208,4 +208,8 @@ podrias crear varibles de entorno modificando el archivo .bashrc o .zshrc depend
 
 Y agregas una nueva linea que diga:
 
-\`alias nombreDelAlias =comandoEquivalente\`
+\`
+
+alias nombreDelAlias =comandoEquivalente
+
+\`
