@@ -224,4 +224,32 @@ find: ARGUMENTOS
 
 *   \-size (en MB GB B KB)
 
-El comando whereis (en español: ¿dónde está?), este comando es algo similar a which, pero mucho mejor. Este comando localiza los ficheros binarios, fuentes y páginas del manual de un programa, es decir, podemos decir que hace algo así como una “búsqueda mucho más profunda”, me encanta porque puedes saberlo casi todo sobre la ubicación de un programa
+El comando whereis (en español: ¿dónde está?), este comando es algo similar a which, pero mucho mejor. Este comando localiza los ficheros binarios, fuentes y páginas del manual de un programa, es decir, podemos decir que hace algo así como una “búsqueda mucho más profunda”, me encanta porque puedes saberlo casi todo sobre la ubicación de un programa.
+
+# Grep
+
+podriamos hablar de grep en un post entero pero te dare la introducciongrep es un comando con muchas utilidades, la verdad es que tiene muchos casos de uso, aquí te dejo algunos que a mí me han sido de utilidad 👀👇:
+
+1.  Buscar algún paquete en específico que tengas instalado:
+
+<!---->
+
+1.  Filtrar algún archivo en específico después de un ls:
+
+<!---->
+
+1.  Buscar algún contenido en específico dentro de algún archivo:
+
+<!---->
+
+1.  Buscar una línea en específico en diferentes archivos por medio de un patrón:
+
+<!---->
+
+1.  Buscar usando expresiones regulares (te recomiendo aprender expresiones regulares, son MUY poderosas 👀):
+
+Imagina que tienes un archivo llamado test.txt y adentro contiene la siguiente frase:
+
+> Imagina que quieres buscar algo
+
+Entonces, podemos usar grep así:
