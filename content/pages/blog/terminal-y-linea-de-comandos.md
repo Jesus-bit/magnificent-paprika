@@ -60,7 +60,7 @@ Las mas populares son:
 
 *   **type** nos permite saber que clase es un comando. Por ejemplo type cd (es una funcion de shell), ls (es un alias)
 
-*   Para crear un alias: **alias ‘nombreDelAlias’** = **‘comandoQueInvoca’**. Por ejemploalias l=”ls -lh”. Temporales, por el momento.
+<!---->
 
 *   Con **–help o help**, puedes tener una ayuda sobre los comandos.
 
@@ -187,12 +187,27 @@ Los comandos alias de la terminal nos permiten crear comandos personalizados
 
 Para crear un alias: 
 
-**alias ‘nombreDelAlias’** = **‘comandoQueInvoca’**. 
+**alias ‘nombreDelAlias’** = **‘comandoQueInvoca’**.
 
 Por ejemplo: alias l=”ls -lh”.
 
 # Variables de entorno
 
-
 Las variables de entorno son valores dinámicos que afectan los procesos o se utilizan para el flujo de trabajo de la terminal. Existen en todos los sistemas operativos y su tipo puede variar. Las variables de entorno se pueden crear, editar, guardar y eliminar.
 
+*   env -Imprime las variables de entorno actuales
+
+
+*   echo $VAR -Imprime la variable de entorno VAR
+
+
+*   $PATH  -Variable donde están las rutas de los
+    ejecutables
+
+podrias crear varibles de entorno modificando el archivo .bashrc o .zshrc depende que tipo de terminal tengas para saber como se llama el archivo que tienes que modificar. puedes abrir este archivo colocandote en el dirtectorio raiz de tu usuario normal (no el superusuario) usando el editor de terminal nano lo abres:
+
+\>nano .bashrc
+
+Y agregas una nueva linea que diga:
+
+alias nombreDelAlias = \`comandoEquivalente\`
