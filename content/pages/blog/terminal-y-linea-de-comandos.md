@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+image: /images/cli.png
 ---
 ## ¿que es la terminal?
 
