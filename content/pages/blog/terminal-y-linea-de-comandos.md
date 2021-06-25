@@ -18,7 +18,9 @@ Es la ventana que aloja una shell. Una shell es una forma de comunicarnos direct
 
 ### ¿por que aprender de terminal?
 
-flexibilidad: es decir puedes hacer tareas con mucha facilidad para diferentes casos
+*   flexibilidad: es decir puedes hacer tareas con mucha facilidad para diferentes casos
+
+<!---->
 
 *   velocidad: es muy veloz para hacer procesos que necesites o tareas
 
