@@ -46,7 +46,7 @@ Las mas populares son:
 
 ### Comandos Basicos de la terminal
 
-**Mostrar información del directorio: **
+\*\*Mostrar información del directorio: \*\*
 
 **ls** :Lista el contenido de los directorios (por defecto ordena la salida alfabéticamente).
 
