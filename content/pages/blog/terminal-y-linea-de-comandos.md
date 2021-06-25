@@ -124,10 +124,6 @@ Atajo para limpiar pantalla
 
 Las wildcards nos sirven para realizar seleccionamiento de archivos o directorios, ademas de "ls" los wildcards también pueden usarse con cualquier comando que realice la manipulación de archivos como mv, cp y rm. Ejemplo:
 
-> \>ls *.txt //todos los achivos txt
-> \> ls archivo*
-> //mostrara todos los que tengan al inicio del nombre archivo 
-> //independiente de lo que tengan despues
-> \> ls archivo?
-> //mostrara todos los archivos que tengan archivo al inicio
-> // y al final tengan cualquier otro carcter pero solo uno 
+\>ls \**.txt //todos los *archivos* con *extensión* txt se mostraran
+\> ls archivo *//mostrara todos los que tengan al inicio del nombre "archivo" independiente de la extensión que tenga 
+\> ls archivo? //mostrara todos los archivos que tengan el nombre "archivo" al inicio y al final tengan cualquier otro carácter pero solo uno
