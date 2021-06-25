@@ -119,3 +119,15 @@ Limpiar la terminal:  > clear
 Atajo para limpiar pantalla
 
 **ctrl + l**
+
+# Wildcards
+
+Las wildcards nos sirven para realizar seleccionamiento de archivos o directorios, ademas de "ls" los wildcards también pueden usarse con cualquier comando que realice la manipulación de archivos como mv, cp y rm. Ejemplo:
+
+> \>ls *.txt //todos los achivos txt
+> \> ls archivo*
+> //mostrara todos los que tengan al inicio del nombre archivo 
+> //independiente de lo que tengan despues
+> \> ls archivo?
+> //mostrara todos los archivos que tengan archivo al inicio
+> // y al final tengan cualquier otro carcter pero solo uno 
