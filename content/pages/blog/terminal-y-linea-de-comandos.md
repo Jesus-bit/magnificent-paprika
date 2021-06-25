@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/cli.png
+thumb_image: /images/happy-chili.png
 ---
 ## ¿que es la terminal?
 
