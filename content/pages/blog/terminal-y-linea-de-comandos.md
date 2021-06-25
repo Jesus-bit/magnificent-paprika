@@ -56,6 +56,18 @@ Las mas populares son:
 
 *   Un alias
 
+**Comandos**
+
+*   **type** nos permite saber que clase es un comando. Por ejemplo type cd (es una funcion de shell), ls (es un alias)
+
+*   Para crear un alias: **alias ‘nombreDelAlias’** = **‘comandoQueInvoca’**. Por ejemploalias l=”ls -lh”. Temporales, por el momento.
+
+*   Con **–help o help**, puedes tener una ayuda sobre los comandos.
+
+*   **man ‘comando’** : hace referencia al manual de usuario de un comando, otro similar es informático
+
+*   **whatis ‘comando’** : nos da una descripcion muy corta de que hace ese comando. Pero no funciona con todos.
+
 ### Comandos Basicos de la terminal
 
 \*\*Mostrar información del directorio: \*\*
