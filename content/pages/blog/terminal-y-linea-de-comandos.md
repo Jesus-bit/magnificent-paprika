@@ -12,9 +12,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## ¿que es la terminal?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Es la ventana que aloja una shell. Una shell es una forma de comunicarnos directamente con el sistema operativo. 
 
-*   Lorem ipsum
-*
+### ¿por que aprender de terminal?
+
