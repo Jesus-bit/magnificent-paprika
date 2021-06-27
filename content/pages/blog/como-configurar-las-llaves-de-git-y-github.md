@@ -1,6 +1,6 @@
 ---
 title: Como configurar llaves ssh para git y github
-subtitle: l
+subtitle: Lo mejor es llaves ssh a usuario y contraseña en HTTPS
 date: '2021-06-27'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
