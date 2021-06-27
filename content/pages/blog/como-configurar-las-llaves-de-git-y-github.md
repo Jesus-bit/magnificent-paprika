@@ -1,5 +1,5 @@
 ---
-title: Como configurar llaves
+title: Como configurar llaves ssh para git y github
 subtitle: lorem-ipsum
 date: '2021-06-27'
 thumb_image_alt: lorem-ipsum
