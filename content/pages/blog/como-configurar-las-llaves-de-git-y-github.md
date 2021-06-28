@@ -15,7 +15,7 @@ thumb_image: >-
   /images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323733322f312a6d74736b3366515f4252656d466964686b656c3364412e706e67.png
 image: >-
   /images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323733322f312a6d74736b3366515f4252656d466964686b656c3364412e706e67.png
-thumb_image_alt: 'de git agithub '
+thumb_image_alt: 'conectar de git agithub '
 ---
 # Configuara llaves ssh de git y github
 
