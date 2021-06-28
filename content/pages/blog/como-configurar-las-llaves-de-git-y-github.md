@@ -23,19 +23,24 @@ cuando tu utilizas github desde la web es seguro el protocolo HTTPS pero tiene u
 
 ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 
-**Comprobar proceso y agregarlo (Windows)**
+**Comprobar proceso y agregarlo (Windows y linux)**  
+
 `
+
 //Encender el "servidor" de llaves SSH de tu computadora:
 eval $(ssh-agent -s)
 
-//Añadir tu llave SSH a este "servidor":
+//Añadir tu llave SSH a este "servidor":  
+
 ssh-add ruta-donde-guardaste-tu-llave-privada
+
 `
 
 **Comprobar proceso y agregarlo (Mac)**
 
 `
-//Encender el "servidor" de llaves SSH de tu computadora:
+//Encender el "servidor" de llaves SSH de tu computadora:  
+
 eval "$(ssh-agent -s)"
 
 //Si usas una versión de OSX superior a Mac Sierra (v10.12)
@@ -43,10 +48,12 @@ eval "$(ssh-agent -s)"
 //de tu usuario con el siguiente contenido (ten cuidado con
 //las mayúsculas):
 Host *
-        AddKeysToAgent yes
-        UseKeychain yes
-        IdentityFile ruta-donde-guardaste-tu-llave-privada
-
+        AddKeysToAgent yes  
+        
+        UseKeychain yes  
+        
+        IdentityFile ruta-donde-guardaste-tu-llave-privada  
+        
 //Añadir tu llave SSH al "servidor" de llaves SSH de tu
 //computadora (en caso de error puedes ejecutar este
 //mismo comando pero sin el argumento -K):
