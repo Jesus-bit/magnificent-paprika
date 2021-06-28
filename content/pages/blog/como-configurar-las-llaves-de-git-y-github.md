@@ -38,11 +38,11 @@ ssh-keygen -t rsa -b 4096 -C "youremail@example.com"
 
 *   cd ~/.ssh
 
-*   Crea un archivo config…
+*   Crea un archivo "config…"
 
-*   Con Vim vim config
+*   Con Vim "vim config"
 
-*   Con VSCode code config
+*   Con VSCode "code config"
 
 *   Pega la siguiente configuración en el archivo…
 
