@@ -3,7 +3,7 @@ title: Como configurar llaves ssh para git y github
 subtitle: Lo mejor es llaves ssh a usuario y contraseña en HTTPS
 date: '2021-06-27'
 thumb_image_alt: lorem-ipsum
-image_alt: ip
+image_alt: conexión de git a github
 excerpt: Como configurar conexión con github
 seo:
   title: ''
