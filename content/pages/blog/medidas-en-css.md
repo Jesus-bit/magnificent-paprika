@@ -4,7 +4,7 @@ subtitle: Rem es la mejor medida que puedes utilizar
 date: '2021-06-29'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Usar REM es la mejor practica
 seo:
   title: ''
   description: ''
@@ -12,6 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/unnamed.png
+image: /images/unnamed.png
 ---
 Medidas absolutas
 
