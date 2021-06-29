@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Como funcionan las medidas en css
 subtitle: lorem-ipsum
 date: '2021-06-29'
 thumb_image_alt: lorem-ipsum
