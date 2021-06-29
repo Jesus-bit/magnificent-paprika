@@ -1,6 +1,6 @@
 ---
 title: Como funcionan las medidas en css
-subtitle: lorem-ipsum
+subtitle: Rem es la mejor medida que puedes utilizar
 date: '2021-06-29'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
