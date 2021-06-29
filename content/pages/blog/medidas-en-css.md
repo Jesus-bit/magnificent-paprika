@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/unnamed.png
+image: /images/unnamed.png
 ---
 Medidas absolutas
 
