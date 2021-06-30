@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-06-30'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: l
 seo:
   title: ''
   description: ''
