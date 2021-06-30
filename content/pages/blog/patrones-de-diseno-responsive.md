@@ -15,6 +15,10 @@ seo:
 layout: post
 thumb_image: /images/diseños-multipantalla.jpg
 image: /images/diseños-multipantalla.jpg
+excerpt: >-
+  Los patrones de diseño web adaptables evolucionan rápidamente, pero existen
+  varios patrones establecidos que funcionan bien en los diferentes equipos de
+  escritorio y dispositivos móviles
 ---
 # Responsive Web Design Patterns
 
