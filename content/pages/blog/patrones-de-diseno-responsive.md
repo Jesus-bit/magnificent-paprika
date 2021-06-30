@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Patrones de diseño responsive
 subtitle: lorem-ipsum
 date: '2021-06-30'
 thumb_image_alt: lorem-ipsum
