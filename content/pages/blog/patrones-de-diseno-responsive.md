@@ -1,6 +1,8 @@
 ---
 title: Patrones de diseño responsive
-subtitle: lorem-ipsum
+subtitle: >-
+  los patrones de diseño son una guía de como se debe llevar a cabo algún
+  desarrollo de un proyecto.
 date: '2021-06-30'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
