@@ -6,7 +6,6 @@ subtitle: >-
 date: '2021-06-30'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
@@ -14,6 +13,12 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/diseños-multipantalla.jpg
+image: /images/diseños-multipantalla.jpg
+excerpt: >-
+  Los patrones de diseño web adaptables evolucionan rápidamente, pero existen
+  varios patrones establecidos que funcionan bien en los diferentes equipos de
+  escritorio y dispositivos móviles
 ---
 # Responsive Web Design Patterns
 
