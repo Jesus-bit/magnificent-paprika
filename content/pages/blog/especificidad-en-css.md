@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 excerpt: la especificidad en css
+thumb_image: /images/especificidad.png
 ---
 ## Especificidad en selectores
 
