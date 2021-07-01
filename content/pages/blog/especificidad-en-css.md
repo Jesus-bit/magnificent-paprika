@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Selectores, Seso y Especificidad en CSS'
 subtitle: lorem-ipsum
 date: '2021-07-01'
 thumb_image_alt: lorem-ipsum
