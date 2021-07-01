@@ -25,14 +25,14 @@ Muchos comandos de Git aceptan un parámetro para especificar una referencia o �
 
 <!---->
 
-*   git reset --hard eff544f *# Perderá todo lo que se encuentra en staging y en el Working directory y se moverá el head al commit eff544f
-    *
+*   git reset --hard eff544f \*# Perderá todo lo que se encuentra en staging y en el Working directory y se moverá el head al commit eff544f
+    \*
 
 *   *git reset --soft eff544f # Te recuperará todos los cambios que tengas diferentes al commit eff544f, los agregará al staging area y moverá el head al commit eff544f*
 
 <!---->
 
-*   *git checkout master
-    *
+*   git checkout master
+
 
 *   *git merge eff544f # Fusionará en un nuevo commit la historia de master con el momento específico en el que vive eff544f*
