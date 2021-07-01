@@ -21,15 +21,12 @@ Los recoges registran cuándo se actualizaron las referencias de Git en el repos
 
 Muchos comandos de Git aceptan un parámetro para especificar una referencia o “ref”, que es un puntero a una confirmación sobre todo los comandos:
 
-***git checkout Puedes moverte sin realizar ningún cambio al commit exacto de la ref***
+*git checkout Puedes moverte sin realizar ningún cambio al commit exacto de la ref*
 
-> ***git checkout eff544f***
->
->
->
+*git checkout eff544f*
 
-> ***git reset --hard eff544f ***> ***# Perderá todo lo que se encuentra en staging y en el Working directory y se moverá el head al commit eff544f
-> git reset --soft eff544f # Te recuperará todos los cambios que tengas diferentes al commit eff544f, los agregará al staging area y moverá el head al commit eff544f***
+\*\*\*git reset --hard eff544f \*\*\*> *# Perderá todo lo que se encuentra en staging y en el Working directory y se moverá el head al commit eff544f
+git reset --soft eff544f # Te recuperará todos los cambios que tengas diferentes al commit eff544f, los agregará al staging area y moverá el head al commit eff544f*
 
-> ***git checkout master
-> git merge eff544f # Fusionará en un nuevo commit la historia de master con el momento específico en el que vive eff544f***
+*git checkout master
+git merge eff544f # Fusionará en un nuevo commit la historia de master con el momento específico en el que vive eff544f*
