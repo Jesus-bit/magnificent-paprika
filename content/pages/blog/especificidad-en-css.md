@@ -4,7 +4,6 @@ subtitle: El peso de los selectores en css
 date: '2021-07-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
