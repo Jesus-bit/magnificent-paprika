@@ -1,6 +1,6 @@
 ---
 title: Git nunca olvida
-subtitle: lorem-ipsum
+subtitle: git reset y reflog
 date: '2021-07-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
