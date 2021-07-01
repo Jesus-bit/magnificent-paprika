@@ -13,6 +13,7 @@ seo:
 layout: post
 excerpt: git reset y git reflog
 thumb_image: /images/feed.png
+image: /images/feed.png
 ---
 Git guarda todos los cambios aunque decidas borrarlos, al borrar un cambio lo que estás haciendo sólo es actualizar la punta del branch, para gestionar éstas puntas existe un mecanismo llamado registros de referencia o reflogs.
 
