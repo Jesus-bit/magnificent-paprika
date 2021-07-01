@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Git nunca olvida
 subtitle: lorem-ipsum
 date: '2021-07-01'
 thumb_image_alt: lorem-ipsum
