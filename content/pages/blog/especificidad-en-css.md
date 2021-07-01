@@ -45,3 +45,8 @@ Si se mandan a llamar unos estilos arriba y otros abajo (los dos con la misma cl
 
 ![](http://tech.tribalyte.eu/wp-content/uploads/2018/09/17.png)
 
+Tomando en cuanta esto ¿cual de los siguientes selectores tiene mas peso?
+
+*   \#id {}
+
+*   .class .classs {}
