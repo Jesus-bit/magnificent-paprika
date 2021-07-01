@@ -1,6 +1,6 @@
 ---
 title: 'Selectores, Seso y Especificidad en CSS'
-subtitle: lorem-ipsum
+subtitle: El peso de los selectores en css
 date: '2021-07-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
