@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-excerpt: 'Por que utilizar '
+excerpt: Por que utilizar mobil
 ---
 ## Lorem ipsum
 
