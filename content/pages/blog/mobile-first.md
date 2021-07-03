@@ -1,5 +1,5 @@
 ---
-title: l
+title: Responsibe
 subtitle: lorem-ipsum
 date: '2021-07-02'
 thumb_image_alt: lorem-ipsum
