@@ -13,6 +13,7 @@ seo:
 layout: post
 excerpt: Por que utilizar mobile first
 thumb_image: /images/post_mobile_first.png
+image: /images/post_mobile_first.png
 ---
 Recuerda que en responsive design un diseño se adaptará a distintas vistas independientemente para cuál dispositivo se desarrolló primero y con este estándar primero crearemos para dispositivos móviles.
 
