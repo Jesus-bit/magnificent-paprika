@@ -21,6 +21,7 @@ sections:
       - label: Ver Blog
         url: blog
         style: button
+        icon: dribbble
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
