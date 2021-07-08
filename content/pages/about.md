@@ -30,11 +30,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
+web developer specialized in frontend development. focused on fintech and education companies. Exaperienecia in React JS, mobile first, Redux, css preprocessors and in UI with figma. With extensive knowledge in Javascript vanilla at a deep level and an intermediate level of backend with Node JS.
+Creative. with capacity and experience in solving problems, resourceful and with logical thinking.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+*NUNCA PARES DE HACKEAR*
 
 *Thank You for reading!*
