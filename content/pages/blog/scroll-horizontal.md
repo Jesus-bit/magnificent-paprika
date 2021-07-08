@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Scroll horizontall con css
 subtitle: lorem-ipsum
 date: '2021-07-08'
 thumb_image_alt: lorem-ipsum
