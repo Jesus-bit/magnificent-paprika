@@ -13,6 +13,10 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
+#### ¿Por que un Scroll horizontal es bueno?
+
+Cuando trabajar responsive desing lo que queremos es que el usuario tenga una buena experiencia desde un dispositivo mobile asi que cuando tengamos una serie de elementos 
+
 [overflow-x](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x)
 
 La propiedad de CSS overflow-x establece lo que se muestra cuando el contenido desborda los bordes izquierdo y derecho de un elemento a nivel de bloque. Puede que no sea nada, una barra de desplazamiento o el contenido adicional.
