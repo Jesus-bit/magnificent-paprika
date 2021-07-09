@@ -1,10 +1,10 @@
 ---
 title: Scroll horizontall con css
-subtitle: lorem-ipsum
+subtitle: mejor practica de mobile first
 date: '2021-07-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Mejor practica de css
 seo:
   title: ''
   description: ''
@@ -12,10 +12,17 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/images.png
 ---
 #### ¿Por que un Scroll horizontal es bueno?
 
-Cuando trabajar responsive desing lo que queremos es que el usuario tenga una buena experiencia desde un dispositivo mobile asi que cuando tengamos una serie de elementos 
+Cuando trabajar responsive desing lo que queremos es que el usuario tenga una buena experiencia desde un dispositivo mobile asi que cuando tengamos una serie de elementos que crean un overflow lo mejor es que en lugar de que toda la pantalla se tenga que deslizar hacia un lado. solo se deslize el contenedor 
+
+
+
+![](https://francescricart.com/wp-content/uploads/2018/12/resumen-propiedad-overflow-css.jpg)
+
+para mejorar este posicionamiento es con las siguientes propiedades: 
 
 [overflow-x](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x)
 
