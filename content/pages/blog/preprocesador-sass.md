@@ -1,6 +1,6 @@
 ---
 title: Sass el mejor preprocesador
-subtitle: lorem-ipsum
+subtitle: Introducción a sass
 date: '2021-07-09'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
