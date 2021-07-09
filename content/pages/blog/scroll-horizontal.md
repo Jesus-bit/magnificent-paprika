@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/Image%202018-05-07%20at%204.47.33%20PM.jpeg
 ---
 #### ¿Por que un Scroll horizontal es bueno?
 
