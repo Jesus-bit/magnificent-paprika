@@ -1,5 +1,5 @@
 ---
-title: Sass el mejor preprosecador
+title: Sass el mejor preprocesador
 subtitle: lorem-ipsum
 date: '2021-07-09'
 thumb_image_alt: lorem-ipsum
