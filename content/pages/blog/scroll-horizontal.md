@@ -4,7 +4,7 @@ subtitle: mejor practica de mobile first
 date: '2021-07-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Mejor practica de css
 seo:
   title: ''
   description: ''
