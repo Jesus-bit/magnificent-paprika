@@ -1,6 +1,6 @@
 ---
 title: Scroll horizontall con css
-subtitle: lorem-ipsum
+subtitle: mejor practica de mobile first
 date: '2021-07-08'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
