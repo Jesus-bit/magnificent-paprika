@@ -43,8 +43,13 @@ Por ejemplo en la mejora progresiva se puede manejar el siguiente flujos:
 
 Contenido (data) ⇒ wireframes (html) ⇒ Diseño visual (CSS) ⇒ Animaciones (css o js)
 
-## 1.4. Accesibilidad y diseño.
+## Accesibilidad con diseño.
 
 > *El poder de la web está en su universalidad. El acceso de todas las personas independientemente de la discapacidad es un aspecto esencial. Tim Berners-Lee, W3C Director*
 
-Es una obligación que nuestras páginas sean visibles.
+Es una obligación que nuestras páginas sean visibles para cualquiera.
+
+Las buenas practicas para lograr accesibilidad son: 
+
+*   *   Utilizar HTML semántico.*   Utilizar tamaños de fuentes accesibles.*   Utilizar colores que tengan un contraste adecuado.*   Garantizar que el código de color no sea la única forma de relacionar contenido.*   Diseñar teniendo en cuenta los estados "focus" y "active" de los componentes.*   Agregar etiquetas y textos descriptivos a los campos del formulario.*   Garantizar que las animaciones no bloquean el acceso al contenido.*   Escribir contenido descriptivo que pueda reemplazar videos e imágenes.
+
