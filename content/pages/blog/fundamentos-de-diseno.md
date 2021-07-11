@@ -27,3 +27,18 @@ El diseño igual tiene que resolver problemas de una manera creativa. Para esto 
 
 5.  **Implementación:** Construir, trabajar.
 
+Éste proceso se aplica a problemas de la vida cotidiana. 
+
+## Diseño responsivo.
+
+Esta rama del diseño se trata de crear diferentes diseños para diferentes tamaños de pantalla. Es importante empezar por dispositivos móviles. Ésto garantiza que empecemos por los requerimientos mínimos, que separa las capas de contenido y disponibilidad.
+
+Es importante utilizar sistema de grillas y columnas.
+
+*   Para hacer responsive design se puede utilizar la mejora progresiva o Progresive enhancement.  Se parte de una base sólida y se van añadiendo capas de complejidad de manera progresiva.
+
+*   También existe la degradación agraciada en la que se parte de una versión completa a la que se le van removiendo capas de complejidad para garantizar su funcionamientos en todos los tamaños de pantalla y sistemas operativos.
+
+Por ejemplo en la mejora progresiva se puede manejar el siguiente flujos:
+
+Contenido (data) ⇒ wireframes (html) ⇒ Diseño visual (CSS) ⇒ Animaciones (css o js)
