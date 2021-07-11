@@ -13,9 +13,17 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Como en la programación
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+El diseño igual tiene que resolver problemas de una manera creativa. Para esto se lleva a acabo un proceso creativo consta de algunos pasos:
 
-- Lorem ipsum
-- dolor sit amet
+1.  **Preparación:** Investigar, recopilar información relativa a un problema.
+
+2.  **Incubación:** Experimentar, sintetizar, ver cómo alguien ha solucionado un problema.
+
+3.  **Iluminación:** Idear, imaginar.
+
+4.  **Evaluación:** Criticar, replantear. Definir si las  soluciones son prácticas o viables.
+
+5.  **Implementación:** Construir, trabajar.
+
