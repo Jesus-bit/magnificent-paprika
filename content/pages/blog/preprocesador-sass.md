@@ -4,7 +4,7 @@ subtitle: Introducción a sass
 date: '2021-07-09'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Un preprocesador en una manera mas fácil de escribir css
 seo:
   title: ''
   description: ''
@@ -12,6 +12,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/descarga.jpeg
+image: /images/descarga.jpeg
 ---
 ## ¿Por que Sass?
 
