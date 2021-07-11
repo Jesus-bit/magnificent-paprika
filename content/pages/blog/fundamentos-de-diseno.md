@@ -27,7 +27,7 @@ El diseño igual tiene que resolver problemas de una manera creativa. Para esto 
 
 5.  **Implementación:** Construir, trabajar.
 
-Éste proceso se aplica a problemas de la vida cotidiana. 
+Éste proceso se aplica a problemas de la vida cotidiana.
 
 ## Diseño responsivo.
 
@@ -42,3 +42,9 @@ Es importante utilizar sistema de grillas y columnas.
 Por ejemplo en la mejora progresiva se puede manejar el siguiente flujos:
 
 Contenido (data) ⇒ wireframes (html) ⇒ Diseño visual (CSS) ⇒ Animaciones (css o js)
+
+## 1.4. Accesibilidad y diseño.
+
+> *El poder de la web está en su universalidad. El acceso de todas las personas independientemente de la discapacidad es un aspecto esencial. Tim Berners-Lee, W3C Director*
+
+Es una obligación que nuestras páginas sean visibles.
