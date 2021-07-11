@@ -13,6 +13,7 @@ seo:
 layout: post
 thumb_image: /images/pexels-kaboompics-com-6444.jpg
 image: /images/pexels-kaboompics-com-6444.jpg
+excerpt: Diseño basico
 ---
 ## Como en la programación
 
