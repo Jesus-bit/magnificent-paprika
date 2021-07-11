@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Fundamentos de diseño.
 subtitle: lorem-ipsum
 date: '2021-07-11'
 thumb_image_alt: lorem-ipsum
