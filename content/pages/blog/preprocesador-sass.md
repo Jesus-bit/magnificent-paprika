@@ -4,7 +4,7 @@ subtitle: Introducción a sass
 date: '2021-07-09'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Un preprocesador en una manera mas fácil de escribir css
 seo:
   title: ''
   description: ''
