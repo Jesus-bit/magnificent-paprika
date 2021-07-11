@@ -32,9 +32,8 @@ layout: page
 ---
 Web developer specialized in frontend development. focused on fintech and education companies. Exaperienecia in React JS, mobile first, Redux, css preprocessors and in UI with figma. With extensive knowledge in Javascript vanilla at a deep level and an intermediate level of backend with Node JS.
 
-
 Creative. with capacity and experience in solving problems, resourceful and with logical thinking.
 
-> *NUNCA PARES DE HACKEAR*
+> NEVER STOP HACKING
 
 *Thank You for reading!*
