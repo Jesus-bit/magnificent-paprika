@@ -4,7 +4,6 @@ subtitle: Diseño basico
 date: '2021-07-11'
 thumb_image_alt: imagen sobre diseño
 image_alt: imagen sobre diseño
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
