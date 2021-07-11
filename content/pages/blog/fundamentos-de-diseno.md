@@ -51,7 +51,9 @@ Es una obligación que nuestras páginas sean visibles para cualquiera.
 
 Las buenas practicas para lograr accesibilidad son:
 
-Utilizar HTML semántico.
+*   Utilizar HTML semántico.
+
+<!---->
 
 *   Utilizar tamaños de fuentes accesibles.
 
@@ -66,3 +68,17 @@ Utilizar HTML semántico.
 *   Garantizar que las animaciones no bloquean el acceso al contenido.
 
 *   Escribir contenido descriptivo que pueda reemplazar videos e imágenes.
+
+## El brief.
+
+El brief es un documento en donde se consignan todos los objetivos y datos relevantes a nuestra aplicación (hoja de ruta). En este documento se tienen principalmente:
+
+*   Descripción del cliente o empresa.
+
+*   Objetivos o retos.
+
+*   Target o audiencia.
+
+*   Competencia.
+
+*   Distribución.
