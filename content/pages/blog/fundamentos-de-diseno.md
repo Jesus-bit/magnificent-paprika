@@ -2,7 +2,7 @@
 title: Fundamentos de diseño.
 subtitle: Diseño basico
 date: '2021-07-11'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: imagen sobre diseño
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
