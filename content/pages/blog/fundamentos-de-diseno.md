@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/pexels-kaboompics-com-6444.jpg
+image: /images/pexels-kaboompics-com-6444.jpg
 ---
 ## Como en la programación
 
