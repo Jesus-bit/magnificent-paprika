@@ -12,7 +12,11 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-# Algunos paradigmas de diseño son
+## ¿Que es un paradigma de diseño?
+
+un paradigma de diseño es un modelo que te sirve como guia para desarrollar un sistema.
+
+#### Algunos paradigmas de diseño son:
 
 procedural:
 
