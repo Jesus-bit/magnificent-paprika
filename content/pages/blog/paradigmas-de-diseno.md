@@ -3,7 +3,9 @@ title: Patrones de diseño
 date: '2021-07-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  un paradigma de diseño es un modelo que te sirve como guia para desarrollar un
+  sistema.
 seo:
   title: ''
   description: ''
