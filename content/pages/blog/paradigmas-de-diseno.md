@@ -29,6 +29,8 @@ Otro paradigma que debemos entender es el **diseño atómico** para organizar 
 
 Con la suma de estos organismos generamos **templates**, la forma más básica de nuestras plataformas qué podemos utilizar en diferentes partes de nuestros diseños aplicando pequeños cambios en los átomos, y cuando aplicamos estos cambios para las partes especificas de nuestro sitio obtenemos **páginas**, el resultado final de toda la organización de elementos independientes hasta formas conjuntos de organismos complicados y armónicos entre sí.
 
+![](/\_static/app-assets/images/instagram-atomic.png)
+
 *   DRY:
 
 Por último, vamos a entender el paradigma **dry** *(Don’t Repeat Yourself)* para construir elementos reciclables y no gastar tiempo volviendo a construir los mismos objetos una y otra vez.
