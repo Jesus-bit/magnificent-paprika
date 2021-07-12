@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/1_vCVuPgzs8QqSR6HmOtTwtg.png
 ---
 ## ¿Que es un paradigma de diseño?
 
