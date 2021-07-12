@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/descarga (1).jpeg
+image: /images/purple-iron.png
 ---
 ## ¿Que es un paradigma de diseño?
 
