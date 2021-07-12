@@ -13,9 +13,18 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+# ¿que son los paradigmas de diseño?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+un paradigma de diseño es un modelo que te sirve como guia para desarrollar un sistema.
 
-- Lorem ipsum
-- dolor sit amet
+### algunos paradigmas de diseño son
+
+*   procedural: 
+
+En sintesis son elementos independientes que juntos haran que el resultado sea variable. para dejar mas claro este paradigma basicamente tu tienes que crear 20 outfits diferentes y pues combinas tres camisas 4 pantalones y 2 pares de tenis y cada combinacion es diferente y sus elementos son independientes que juntos crean un sistema.
+
+*   Atomic desing:
+
+Otro paradigma que debemos entender es el **diseño atómico** para organizar los elementos de nuestros diseños y software. Los elementos independientes más sencillos de nuestro sistema *(labels, inputs, botones, títulos, etc)* los conocemos como **átomos**, pero cuando juntamos átomos construimos **moléculas**, elementos sencillos unidos entre sí *(un buscador por ejemplo, el conjunto de label + input + botón)*, y formamos **organismos** cuando juntamos moléculas *(por ejemplo, una barra de navegación con logos, enlaces y un buscador)*.
+
+Con la suma de estos organismos generamos **templates**, la forma más básica de nuestras plataformas qué podemos utilizar en diferentes partes de nuestros diseños aplicando pequeños cambios en los átomos, y cuando aplicamos estos cambios para las partes especificas de nuestro sitio obtenemos **páginas**, el resultado final de toda la organización de elementos independientes hasta formas conjuntos de organismos complicados y armónicos entre sí.
