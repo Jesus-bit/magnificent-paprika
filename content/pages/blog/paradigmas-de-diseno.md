@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Patrones de diseño
 subtitle: lorem-ipsum
 date: '2021-07-12'
 thumb_image_alt: lorem-ipsum
