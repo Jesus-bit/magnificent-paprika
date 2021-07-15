@@ -11,5 +11,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+title: How does the internet work
 ---
 Before, when the web function only with a server database within from the server goes the code from the language of the backend.in database there are a motor from database.
