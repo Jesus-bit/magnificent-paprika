@@ -13,4 +13,6 @@ seo:
 layout: post
 title: How does the internet work
 ---
-Before, when the web function only with a server database within from the server goes the code from the language of the backend.in database there are a motor from database.
+Unlike the money traditional, bitcoin is a currency intangible is completely virtual.
+
+bitcoin is a system peer to peer or system for pair distributed, in this system doesn't exist a central entity
