@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-title: what is
+title: what is bitcoin
 ---
 Unlike the money traditional, bitcoin is a currency intangible is completely virtual.
 
