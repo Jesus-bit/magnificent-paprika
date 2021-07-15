@@ -13,9 +13,4 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Before, when the web function only with a server database within from the server goes the code from the language of the backend.in database there are a motor from database.
