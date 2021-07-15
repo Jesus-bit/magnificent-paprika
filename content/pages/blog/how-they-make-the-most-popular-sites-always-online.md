@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-title: How does the internet work
+title: what is
 ---
 Unlike the money traditional, bitcoin is a currency intangible is completely virtual.
 
