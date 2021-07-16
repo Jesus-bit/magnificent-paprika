@@ -13,9 +13,10 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Propiedades basicas de css grid
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+CSS Grid requiera una forma completamente de pensar sobre el diseño en CSS
 
-- Lorem ipsum
-- dolor sit amet
+*   Es una de las herramientas de diseño más poderosa inventada para CSS
+
+*   Es una alternativa más simple a diferencia de técnicas del pasado
