@@ -24,3 +24,13 @@ Un sistema de grillas es como una red de pesca se tienen filas y columnas con es
 Siempre se tendrá un Contenedor \*\*(padre). \*\*Los items **(elementos hijos)** serán los que estarán dentro de este contenedor. Los hijos también pueden ser padres. Todos los padres tienen que tener:
 
 display: grid;
+
+### Lines · Padre
+
+*   Es la línea que compone la grilla
+
+![](<stackbit_asset_id:static:public/images/Untitled (2).png>)
+
+### Track · Padre
+
+*   Conjunto de celdas unidas
