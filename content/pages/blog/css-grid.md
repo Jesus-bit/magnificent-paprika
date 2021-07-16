@@ -20,3 +20,5 @@ CSS Grid requiera una forma completamente de pensar sobre el diseño en CSS. Es 
 ![](/images/energetic-cabbage.png)
 
 Un sistema de grillas es como una red de pesca se tienen filas y columnas con espacios que pueden ser rectangulares o cuadrados.
+
+Siempre se tendrá un Contenedor **(padre). **Los items **(elementos hijos)** serán los que estarán dentro de este contenedor. Los hijos también pueden ser padres. Todos los padres tienen que tener:
