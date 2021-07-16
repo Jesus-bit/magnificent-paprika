@@ -15,4 +15,8 @@ layout: post
 ---
 ## Propiedades basicas de css grid
 
-CSS Grid requiera una forma completamente de pensar sobre el diseño en CSS. Es una de las herramientas de diseño más poderosa inventada para CSS. Es una alternativa más simple a diferencia de técnicas del pasado. Ejemplos de esto son algunas revistas:![](/images/Untitled.png)
+CSS Grid requiera una forma completamente de pensar sobre el diseño en CSS. Es una de las herramientas de diseño más poderosa inventada para CSS. Es una alternativa más simple a diferencia de técnicas del pasado. Esta se basa en un sistema de grillas. Ejemplos de esto son algunas revistas:
+
+                                                                                     ![](<stackbit_asset_id:static:public/images/Untitled (1).png>)
+
+Un sistema de grillas es como una red de pesca se tienen filas y columnas con espacios que pueden ser rectangulares o cuadrados.
