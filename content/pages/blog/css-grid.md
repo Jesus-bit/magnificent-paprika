@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Css Grid básico
 subtitle: lorem-ipsum
 date: '2021-07-16'
 thumb_image_alt: lorem-ipsum
