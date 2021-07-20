@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+excerpt: 'Razones para tener animaciones '
 ---
 ## Las animaciones estan en todos lados
 
