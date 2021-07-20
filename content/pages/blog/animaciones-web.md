@@ -13,9 +13,4 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*   Las animaciones tienen beneficios para el cerebro
