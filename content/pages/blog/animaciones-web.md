@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ¿POR QUE USAR ANIMACIONES WEB?
 subtitle: lorem-ipsum
 date: '2021-07-20'
 thumb_image_alt: lorem-ipsum
