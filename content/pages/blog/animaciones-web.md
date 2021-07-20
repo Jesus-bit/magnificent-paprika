@@ -1,6 +1,6 @@
 ---
 title: ¿POR QUE USAR ANIMACIONES WEB?
-subtitle: lorem-ipsum
+subtitle: Razones para usar animaciones web
 date: '2021-07-20'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
