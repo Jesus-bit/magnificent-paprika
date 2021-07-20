@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 excerpt: Razones para tener animaciones en tu pagina web
+thumb_image: /images/descarga.png
 ---
 ## Las animaciones estan en todos lados
 
