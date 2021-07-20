@@ -4,7 +4,6 @@ subtitle: Razones para usar animaciones web
 date: '2021-07-20'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
@@ -12,11 +11,13 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+excerpt: Razones para tener animaciones en tu pagina web
+thumb_image: /images/descarga.png
+image: /images/descarga.png
 ---
 ## Las animaciones estan en todos lados
 
 Si trabajas en marketing o comunicación y eres Millennial o perteneces a la Generación X, te podría asegurar que has usado, o al menos has visto la creciente tendencia del uso de las animaciones web en la comunicación digital.
-
 
 Las animaciones son, elementos visuales que eran muy populares en los primeros años del siglo XXI, se han infiltrado de nuevo, ahora ya no sólo en sitios web, sino en los timelines de nuestras redes sociales tanto públicas (**Facebook, Twitter, Instagram**) como privadas (**Whatsapp**, **Facebook Messenger**).
 
@@ -32,7 +33,7 @@ Ayudan a reducir la carga cognitiva, y generar atención en espacios realmente i
 
 ### Las animaciones se comunican
 
-Los seres humanos tratamos de conectar absolutamente todo, con animaciones podemos facilitar la comunicación entre diferentes objetos. una animación puede tener distintas formas de comunicar desde el si el movimiento es rápido o lento hasta el color. Como en una landing page el botón de call to action. 
+Los seres humanos tratamos de conectar absolutamente todo, con animaciones podemos facilitar la comunicación entre diferentes objetos. una animación puede tener distintas formas de comunicar desde el si el movimiento es rápido o lento hasta el color. Como en una landing page el botón de call to action.
 
 ![](https://neilpatel.com/wp-content/uploads/2015/08/image048.png)
 
@@ -44,8 +45,4 @@ Independientemente de la plataforma por la que entro (web o app), debo tener la 
 
 ### Coreografía de UI
 
-Todas las animaciones que creemos deben comunicar de la misma manera. Debe haber coherencia cuando creamos las animaciones.
-
-### Las animaciones llaman la atención
-
-Nos ayudan a reducir la cargar cognitiva, nos ayudan a comunicar y también a expresar muchas cosas.
+Todas las animaciones que creemos deben comunicar de la misma manera. Debe haber coherencia cuando creamos las animaciones.  Las animaciones también son importantes para brindar una buena experiencia de usuario. ¿Algunas vez has entrado a una de estas páginas modernas y has sentido como las animaciones le dan un toque más suave? Este estilo es lo que hace que tu pagina tenga vida y que para tus usuarios se sientan mas confortable.
