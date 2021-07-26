@@ -25,11 +25,16 @@ Los dos tipos de coercion se describirian asi:
 
 Coercion implicita
 
-4 + "7";      /\* 47 \*/\
-4 \* "7";      /\* 28 \*/
+4 + "7";  =   /\* 47 \*/
+
+Lo que pasa aquí es que el signo "+" significa una concatenación y como no es posible unir dos valores de diferente tipo lo que hace javascript es convertir el numero cuatro a string para que el resultado sea "47" un string
+
+4 \* "7";  =   /\* 28 \*/
 
 Coerción explicita
 
 String(10);
-Number("10")
+Number("10");
 ParseInt("10");
+
+Las funciones Number(); y ParseInt(); las tiene por defecto javascript y se usan para convertir valores intencionalmente es decir tu colocas estas funciones específicamente para cambiar el tipo de valor que le des. 
