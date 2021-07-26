@@ -13,9 +13,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-La coerción es la conversión automática o implicita de valores de un tipo de dato a otro (Ejemplo: de cadena de texto a número). 
+La coerción es la conversión automática o implicita de valores de un tipo de dato a otro (Ejemplo: de cadena de texto a número).
 
-Los dos tipos de coercion se describirian asi: 
+Los dos tipos de coercion se describirian asi:
 
 1.  Coerción implícita: Es cuando el lenguaje nos ayuda a cambiar el tipo de valor.
 
@@ -25,7 +25,11 @@ Los dos tipos de coercion se describirian asi:
 
 Coercion implicita
 
-4 + "7";      /\* 47 \*/       
+4 + "7";      /\* 47 \*/\
 4 \* "7";      /\* 28 \*/
 
 Coerción explicita
+
+String(10);
+Number("10")
+ParseInt("10");
