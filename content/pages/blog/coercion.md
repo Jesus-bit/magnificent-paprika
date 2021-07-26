@@ -13,9 +13,19 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+La coerción es la conversión automática o implicita de valores de un tipo de dato a otro (Ejemplo: de cadena de texto a número). 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Los dos tipos de coercion se describirian asi: 
 
-- Lorem ipsum
-- dolor sit amet
+1.  Coerción implícita: Es cuando el lenguaje nos ayuda a cambiar el tipo de valor.
+
+2.  Coerción explicita: Es cuando obligamos a que cambie el tipo de valor.
+
+### Ejemplos
+
+Coercion implicita
+
+4 + "7";      /\* 47 \*/       
+4 \* "7";      /\* 28 \*/
+
+Coerción explicita
