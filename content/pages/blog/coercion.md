@@ -41,7 +41,7 @@ Un lenguaje con tipado fuerte seria Java sus variables se declaran así:
 
 private static final Int Name_Var = 2;
 
-La cuarta palabra es Int esto quiere decir que va a aser una variable de tipo numero entero. 
+La cuarta palabra es Int esto quiere decir que va a aser una variable de tipo numero entero. En este lenguaje se tiene que especificar que tipo de variable es.
 
 ## Coerción
 
