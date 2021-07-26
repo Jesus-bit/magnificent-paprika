@@ -43,6 +43,8 @@ private static final Int Name_Var = 2;
 
 La cuarta palabra es Int esto quiere decir que va a aser una variable de tipo numero entero. En este lenguaje se tiene que especificar que tipo de variable es.
 
+![](https://miro.medium.com/max/1360/0\*F-rMIkdywVWyB5a6.png)
+
 ## Coerción
 
 La coerción es la conversión automática o implicita de valores de un tipo de dato a otro (Ejemplo: de cadena de texto a número).
@@ -74,4 +76,3 @@ ParseInt("10");
 Las funciones Number(); y ParseInt(); las tiene por defecto javascript y se usan para convertir valores intencionalmente es decir tu colocas estas funciones específicamente para cambiar el tipo de valor que le des.
 
 Conocer la forma en que Javascript maneja los tipos de datos es importante para evitar las incongruencias de una coerción inesperada de valores. En el test de arriba cuando es una resta entre un numero y un string el string se convierte en numero entero. Ahora haz la operación
-
