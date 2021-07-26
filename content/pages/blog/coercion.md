@@ -13,7 +13,7 @@ seo:
 layout: post
 image: /images/Débilmente-tipado.png
 thumb_image: /images/image.png
-excerpt: Coerción y tipado de
+excerpt: Coerción y tipado debíl
 ---
 ## Tipado debil o fuerte en programacion
 
