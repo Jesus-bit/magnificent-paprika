@@ -1,6 +1,6 @@
 ---
 title: Coercion en Javascript
-subtitle: lorem-ipsum
+subtitle: Cambiar de un tipo de valor a otro
 date: '2021-07-26'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
