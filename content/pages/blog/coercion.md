@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/Débilmente-tipado.png
+thumb_image: /images/image.png
 ---
 ## Tipado debil o fuerte en programacion
 
