@@ -34,7 +34,11 @@ Lo que pasa aquí es que el signo "+" significa una concatenación y como no es 
 Coerción explicita
 
 String(10);
+
+
 Number("10");
+
+
 ParseInt("10");
 
-Las funciones Number(); y ParseInt(); las tiene por defecto javascript y se usan para convertir valores intencionalmente es decir tu colocas estas funciones específicamente para cambiar el tipo de valor que le des. 
+Las funciones Number(); y ParseInt(); las tiene por defecto javascript y se usan para convertir valores intencionalmente es decir tu colocas estas funciones específicamente para cambiar el tipo de valor que le des.
