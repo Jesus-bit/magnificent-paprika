@@ -1,6 +1,6 @@
 ---
 title: Metodos de arrays en javascript
-subtitle: lorem-ipsum
+subtitle: 'Como usar short(), map(), filter(), etc.'
 date: '2021-08-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
