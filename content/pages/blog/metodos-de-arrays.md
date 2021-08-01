@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Metodos de arrays en javascript
 subtitle: lorem-ipsum
 date: '2021-08-01'
 thumb_image_alt: lorem-ipsum
