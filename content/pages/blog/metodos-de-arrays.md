@@ -44,3 +44,9 @@ Los metodos mas avanzados son:
 #### map()
 
 El nombre completo de este método es mapeo lo que le hace a un array es transformarlo. map es un callback es decir una función que recibe como parámetro una función, es decir, map() recibe una funciona como parámetro.
+
+el como funciona un map de forma rudimentaria es:
+
+Tienes un array con números del 1 al 5 que son los precios de productos pero se devalúa la moneda tres veces su valor asi que tienes que multiplicar por tres cada numero pero no puede hacerlo uno por uno la solución es sencilla usas un ciclo for de la siguiente forma:
+
+![](/images/caring-saturn.png)
