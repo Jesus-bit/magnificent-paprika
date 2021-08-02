@@ -21,4 +21,6 @@ imagina que tienes una variable llamada  colores y en esta misma almacenamos un 
 
 ![](/images/code.png)
 
-Cada espacio en una caja de colores representa una posición en nuestro arreglo. **Los arreglos siempre comienzan en la posición 0. **Entonces red esta en la posición 0 y la ultima posición de este array es 3.
+Cada espacio en una caja de colores representa una posición en nuestro arreglo. **Los arreglos siempre comienzan en la posición 0.**
+
+Entonces red esta en la posición 0 y la ultima posición de este array es 3.
