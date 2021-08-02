@@ -50,3 +50,4 @@ el como funciona un map de forma rudimentaria es:
 Tienes un array con números del 1 al 5 que son los precios de productos pero se devalúa la moneda tres veces su valor asi que tienes que multiplicar por tres cada numero pero no puede hacerlo uno por uno la solución es sencilla usas un ciclo for de la siguiente forma:
 
 ![](/images/caring-saturn.png)
+
