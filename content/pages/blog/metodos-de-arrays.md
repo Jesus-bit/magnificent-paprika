@@ -24,3 +24,20 @@ imagina que tienes una variable llamada  colores y en esta misma almacenamos un 
 Cada espacio en una caja de colores representa una posición en nuestro arreglo. **Los arreglos siempre comienzan en la posición 0.**
 
 Entonces red esta en la posición 0 y la ultima posición de este array es 3.
+
+## Métodos
+
+Existen diferentes metodos que estan ya definidos por el lenguaje que nos permiten manipular los arrays. Algunos de estos son:
+
+*   push(). agrega un elemento al final del array.
+
+*   pop().Borra el ultimo elemento del array.
+
+*   unshift(). Agrega un elemento al inicio del array
+
+*   shift(). Borra el primero elemento del array
+
+*   splice(). agrega un elemento en cualquier posición del array.
+
+
+
