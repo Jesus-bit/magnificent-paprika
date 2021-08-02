@@ -13,9 +13,12 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## ¿Que es un array?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Los arreglos son una estructura de datos que tiene la particularidad de disponer de varios datos que se pueden acceder con un mismo nombre.
 
-- Lorem ipsum
-- dolor sit amet
+imagina que tienes una variable llamada  colores y en esta misma almacenamos un color en cada lugar de una caja de colores.
+
+![](/images/code.png)
+
+Cada espacio en una caja de colores representa una posición en nuestro arreglo. **Los arreglos siempre comienzan en la posición 0.**
