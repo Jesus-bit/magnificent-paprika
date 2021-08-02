@@ -39,5 +39,8 @@ Existen diferentes metodos que estan ya definidos por el lenguaje que nos permit
 
 *   splice(). agrega un elemento en cualquier posición del array.
 
+Los metodos mas avanzados son:
 
+#### map()
 
+El nombre completo de este método es mapeo lo que le hace a un array es transformarlo. map es un callback es decir una función que recibe como parámetro una función, es decir, map() recibe una funciona como parámetro.
