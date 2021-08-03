@@ -66,3 +66,8 @@ Como su nombre lo dice lo que hace es filtrar y filtra en base a una condición 
 Para hacerlo con filter básicamente filter te va a dar los valores del array y tu con una función colocas que condición usas para filtrar los elementos del array. En este caso nos tiene que dar los valores que sean mayor o igual que 3.
 
 ![](/images/code\(5\).png)
+
+### Reduce()
+
+Un reduce lo que hace es reducir un array. Tu tienes un array de números y necesitas sumarlos todos . usarías una variable fuera del scope de un bucle para que dentro del bucle recorras todo el array y cada elemento lo sumes a esta variable.
+
