@@ -63,6 +63,6 @@ Como su nombre lo dice lo que hace es filtrar y filtra en base a una condición 
 
 ![](/images/code\(4\).png)
 
-Para hacerlo con filter básicamente filter te va a dar los valores del array y tu con una función colocas que condición usas para filtrar los elementos del array.
+Para hacerlo con filter básicamente filter te va a dar los valores del array y tu con una función colocas que condición usas para filtrar los elementos del array. En este caso nos tiene que dar los valores que sean mayor o igual que 3.
 
 ![](/images/code\(5\).png)
