@@ -51,3 +51,6 @@ Tienes un array con números del 1 al 5 que son los precios de productos pero se
 
 ![](/images/caring-saturn.png)
 
+Pues este código hará lo que quieres pero el map() son menos lineas de código y mas efectivo para saber como es que funciones volvamos al ejemplo anterior como tienes que hacer que por cada elemento se multiplique por tres. El map como parámetro le vas a dar una función y esa función  va a recibir un parámetro este parámetro es cada elemento dentro del array. A este parámetro con una arrow función (es de una sola linea) lo vas a multiplicar por tres, de la siguiente forma:
+
+![](/images/code\(3\).png)
