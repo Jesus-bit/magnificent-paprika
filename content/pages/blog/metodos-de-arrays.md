@@ -71,3 +71,9 @@ Para hacerlo con filter básicamente filter te va a dar los valores del array y 
 
 Un reduce lo que hace es reducir un array. Tu tienes un array de números y necesitas sumarlos todos . usarías una variable fuera del scope de un bucle para que dentro del bucle recorras todo el array y cada elemento lo sumes a esta variable.
 
+![](/images/code\(6\).png)
+
+Reduce nos reduce estas lineas de código a tomar el array colocarlo el reduce y este te va a dar dos parámetro que es el acumulador o la variable a la que se va sumar y el numero de cada elemento del array. y dentro de la función que recibe como parámetro sumar el acumulador con cada elemento del array.
+
+![](/images/code\(7\).png)
+
