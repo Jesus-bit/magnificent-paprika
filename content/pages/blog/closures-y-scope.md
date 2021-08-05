@@ -1,6 +1,6 @@
 ---
 title: Closures y scope en javascript
-subtitle: lorem-ipsum
+subtitle: l
 date: '2021-08-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
