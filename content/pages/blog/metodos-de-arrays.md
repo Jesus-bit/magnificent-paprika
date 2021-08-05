@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/download.png
 ---
 ## ¿Que es un array?
 
