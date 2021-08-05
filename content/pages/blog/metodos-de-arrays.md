@@ -4,7 +4,7 @@ subtitle: 'Como usar short(), map(), filter(), etc.'
 date: '2021-08-01'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Los arrays son la mejor forma de optimizar tu pagina web
 seo:
   title: ''
   description: ''
