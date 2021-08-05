@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Closures y scope en javascript
 subtitle: lorem-ipsum
 date: '2021-08-05'
 thumb_image_alt: lorem-ipsum
