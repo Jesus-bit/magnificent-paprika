@@ -13,9 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+### ¿Que es el scope?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+El scope es el alcance que tienen las variables, es decir, en que parte del código pueden ser consultadas o modificadas.
 
-- Lorem ipsum
-- dolor sit amet
