@@ -13,9 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+Existen más de 600 distribuciones Linux para escritorio, servidores y empresas. Y muchos solo usan Windows. Linux tiene distribuciones para cada gusto. Pero para un principiante le sera muy difícil saber cual distribución elegir, cual es el que se adecua mejor a sus necesidades. por lo que te daré unos tips para tener en cuanta a la hora de elegir distribución.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lo primero a tener en cuenta es la necesidad que tienes.
 
-- Lorem ipsum
-- dolor sit amet
