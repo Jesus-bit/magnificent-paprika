@@ -15,5 +15,10 @@ layout: post
 ---
 ### ¿Que es el scope?
 
-El scope es el alcance que tienen las variables, es decir, en que parte del código pueden ser consultadas o modificadas.
+El scope es el alcance que tienen las variables, es decir, en que parte del código pueden ser consultadas o modificadas las variables. Inicializacion y declaración de variables no es lo mismo, cuando tu declaras una variable sin inicializar su valor es Undefind . En javascript hay tres maneras de declarar variables con:
 
+\-var: 
+
+\-const: 
+
+\-let
