@@ -15,10 +15,10 @@ layout: post
 ---
 ### ¿Que es el scope?
 
-El scope es el alcance que tienen las variables, es decir, en que parte del código pueden ser consultadas o modificadas las variables. Inicializacion y declaración de variables no es lo mismo, cuando tu declaras una variable sin inicializar su valor es Undefind y puedes re-asignar una variable en ciertos casos, es decir cambiarle su valor. En javascript hay tres maneras de declarar variables con:
+El scope es el alcance que tienen las variables, es decir, en que parte del código pueden ser consultadas o modificadas las variables. Inicializacion y declaración de variables no es lo mismo, cuando tu declaras una variable sin inicializar su valor es undefindied y puedes re-asignar una variable en ciertos casos, es decir cambiarle su valor. En javascript hay tres maneras de declarar variables con:
 
-\-var:
+\-var: puede ser re declarada y reasignada
 
-\-const: es una constante y su valor ni declaralacion puede ser reasignado.
+\-const: No puede ser re declarada ni reasignada
 
-\-let: Puede cambiar su valor pero no puede ser redeclarada
+\-let: Puede ser reasignada pero no re declarada.
