@@ -4,7 +4,7 @@ subtitle: El alcance de las variables
 date: '2021-08-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Una funcion que recibe otra = Callback
 seo:
   title: ''
   description: ''
