@@ -17,6 +17,8 @@ Existen más de 600 distribuciones Linux para escritorio, servidores y empresas.
 
 Lo primero a tener en cuenta es la necesidad que tienes. Es decir ¿Para que necesitas tener linux?
 
-Antes que nada Tienes que tener conocimientos básicos de los sistemas operativas GNU/linux, principalmente el funcionamiento de el sistema de ficheros y las particiones de discos. La mejor manera de aprender es poniendo las manos en la masa, así que para experimentar con sistema operativo, lo puedes hacer con una maquina virtual. 
+Antes que nada Tienes que tener conocimientos básicos de los sistemas operativas GNU/linux, principalmente el funcionamiento de el sistema de ficheros y las particiones de discos. La mejor manera de aprender es poniendo las manos en la masa, así que para experimentar con sistema operativo, lo puedes hacer con una maquina virtual.
 
-Después tienes que investigar todo lo que puedas de las distribuciones de linux. seguntus necesidades por ejemplo si vas a hacer ciberceguridad o eres alguien que solo quiere probar linux 
+Después tienes que investigar todo lo que puedas de las distribuciones de linux. segun tus necesidades por ejemplo si vas a hacer ciberceguridad o eres alguien que solo quiere probar linux.
+
+Todas la distribuciones derivan de otra. Decir que todas son iguales no es del todo cierto. Aun que si hablamos de las que están dirigidas al usuario de escritorio si es cierto que se parecen mucho visualmente
