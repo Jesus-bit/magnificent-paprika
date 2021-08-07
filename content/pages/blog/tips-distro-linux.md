@@ -21,4 +21,4 @@ Antes que nada Tienes que tener conocimientos básicos de los sistemas operativa
 
 Después tienes que investigar todo lo que puedas de las distribuciones de linux. segun tus necesidades por ejemplo si vas a hacer ciberceguridad o eres alguien que solo quiere probar linux.
 
-Todas la distribuciones derivan de otra. Decir que todas son iguales no es del todo cierto. Aun que si hablamos de las que están dirigidas al usuario de escritorio si es cierto que se parecen mucho visualmente
+Todas la distribuciones derivan de otra. Decir que todas son iguales no es del todo cierto. Aun que si hablamos de las que están dirigidas al usuario de escritorio si es cierto que se parecen mucho visualmente. Lo que puedes hacer es investigar que programas trae por defecto la distribución o ver algunas captura de pantalla que tengan en su web oficial.
