@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Tips para elegir distribución de GNU/Linux
 subtitle: lorem-ipsum
 date: '2021-08-07'
 thumb_image_alt: lorem-ipsum
