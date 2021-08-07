@@ -1,6 +1,6 @@
 ---
 title: Tips para elegir distribución de GNU/Linux
-subtitle: lorem-ipsum
+subtitle: Distribuciones recomendadas.
 date: '2021-08-07'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
