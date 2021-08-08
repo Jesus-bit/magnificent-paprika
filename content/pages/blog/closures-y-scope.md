@@ -37,10 +37,14 @@ El scope que tiene cada forma de declarar variables es diferente. los tipos de s
 
 <!---->
 
-*   function: En este scope la variable solo puede ser consultada dentro de la función en la cual fue declarada
+*   Local: En este scope la variable solo puede ser consultada dentro de la función en la cual fue declarada
 
 <!---->
 
 *   Block: la variable solo esta disponible en un bloque que este entre llaves { } como un bucle.
 
 El global scope es especial pues para que una variable sea global hay dos formas una es declarándola en la raíz del programa, es decir, fuera de cualquier función o llaves. La otra es cunado este declarada dentro de una función y hacerla global seria declararla con la palabra "globalThis"
+
+Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al declarar una variable es con una tabla:
+
+![](/images/const-vs-let-vs-var.png)
