@@ -26,3 +26,11 @@ En javascript hay tres maneras de declarar variables con:
 \-const: No puede ser re declarada ni reasignada
 
 \-let: Puede ser reasignada pero no re declarada.
+
+El scope que tiene cada una es diferente. los tipos de scope son:
+
+\-Global: Cuando una variable esta en este scope desde cualquier función o lugar del programa puede ser consultada.
+
+\-function: En este scope la variable solo puede ser consultada dentro de la funcion en la cual fue declarada
+
+\-Block
