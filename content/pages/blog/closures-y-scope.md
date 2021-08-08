@@ -26,3 +26,4 @@ En javascript hay tres maneras de declarar variables con:
 \-const: No puede ser re declarada ni reasignada
 
 \-let: Puede ser reasignada pero no re declarada.
+
