@@ -54,3 +54,7 @@ Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al 
 ¿Que mostrara la consola? Respuesta al final de post.
 
 ![](/images/code\(7.png)
+
+### ¿Que es un closure?
+
+Juntamos el scope y lo mezclamos con una funcionpodemos crear algo llamado closure.
