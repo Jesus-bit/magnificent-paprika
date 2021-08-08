@@ -48,3 +48,9 @@ El global scope es especial pues para que una variable sea global hay dos formas
 Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al declarar una variable es con una tabla:
 
 ![](/images/const-vs-let-vs-var.png)
+
+### Ejercicio
+
+¿Que mostrara la consola? Respuesta al final de post.
+
+![](/images/code\(7.png)
