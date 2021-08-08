@@ -57,4 +57,5 @@ Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al 
 
 ### ¿Que es un closure?
 
-Juntamos el scope y lo mezclamos con una funcionpodemos crear algo llamado closure.
+Juntamos el scope y lo mezclamos con una funcion podemos crear algo llamado closure. un closure es una función interna que tiene acceso al alcance de su funcion externa.
+
