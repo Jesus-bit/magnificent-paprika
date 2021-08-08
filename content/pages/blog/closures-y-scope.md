@@ -59,3 +59,4 @@ Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al 
 
 Juntamos el scope y lo mezclamos con una funcion podemos crear algo llamado closure. un closure es una función interna que tiene acceso al alcance de su funcion externa.
 
+![](/images/code\(9.png)
