@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: /images/t3b3pewkj6th2yya6yt4.png
 ---
 ### ¿Que es el scope?
 
