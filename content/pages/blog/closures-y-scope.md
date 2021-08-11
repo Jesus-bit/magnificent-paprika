@@ -69,8 +69,12 @@ Bien podríamos pensar que, la variable contador, deja de vivir en cuanto la fun
 
 Por ende cada vez que ejecutamos
 
+**contadorNumeros**(5)
+
 realmente estamos es llamando a la función **sumar** con todo su ámbito que es la variable contador con valor de 0, y a este le suma lo que se le pase por parámetro,
 
 En la segunda ejecución de
+
+**contadorNumeros**(5)
 
 no se está volviendo a correr todas las líneas de la función contar, esto ya se hizo en la asignación ( let contadorNumeros = contar(); ), sino que realmente se está volviendo a llamar a **sumar()** la cual había modificado su variable contador en la primera llamada
