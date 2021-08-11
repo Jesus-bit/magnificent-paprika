@@ -1,6 +1,6 @@
 ---
 title: ECMAScript 6 +
-subtitle: lorem-ipsum
+subtitle: Ecmascript es el estándar de Javascript.
 date: '2021-08-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
