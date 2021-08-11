@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ECMAScript
 subtitle: lorem-ipsum
 date: '2021-08-11'
 thumb_image_alt: lorem-ipsum
