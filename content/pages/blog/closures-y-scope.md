@@ -60,3 +60,21 @@ Bueno para resumir y decirles cual el scope que tiene cada palabra reservada al 
 Juntamos el scope y lo mezclamos con una funcion podemos crear algo llamado closure. un closure es una función interna que tiene acceso al alcance de su funcion externa.
 
 ![](/images/code\(9.png)
+
+Esto no solo funciona solo para hacer un nombre mutable, también funciona como un  contador. De la siguiente forma.
+
+![](/images/code\(11\).png)
+
+Bien podríamos pensar que, la variable contador, deja de vivir en cuanto la función se termina. Pero no por que la función sumar la mantiene con el ultimo valor pero por que, cuando a la variable contadorNumero se le asigna la función contar lo que esta pasando es que contadorNumeros se convierte en la función sumar, por que la función contar retorna otra función que es la de sumar. Notese que no se ejecuta solo se asigna la funcion sumar.
+
+Por ende cada vez que ejecutamos
+
+**contadorNumeros**(5)
+
+realmente estamos es llamando a la función **sumar** con todo su ámbito que es la variable contador con valor de 0, y a este le suma lo que se le pase por parámetro,
+
+En la segunda ejecución de
+
+**contadorNumeros**(5)
+
+no se está volviendo a correr todas las líneas de la función contar, esto ya se hizo en la asignación ( let contadorNumeros = contar(); ), sino que realmente se está volviendo a llamar a **sumar()** la cual había modificado su variable contador en la primera llamada
