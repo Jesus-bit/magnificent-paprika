@@ -26,21 +26,23 @@ Lo mas relevante desde el ECMAScript 6 es:
 ## Arrow Functions y Promesas
 
 **Arrow Functions:  =>**
+  `
+  
+  const helloPromise = () => {
+    return new Promise((resolve, reject)=>{
+    if(false){
+      resolve('Hello!');
+    } else{
+      reject('Woops!!');
+    }
+    });
+  }
 
-const helloPromise = () => {
-return new Promise((resolve, reject)=>{
-if(false){
-resolve('Hello!');
-} else{
-reject('Woops!!');
-}
-});
-}
-
-helloPromise()
-.then(response => console.log(response))
-.catch(error => console.log(error));
-
+  helloPromise()
+    .then(response => console.log(response))
+    .catch(error => console.log(error));
+    
+`
 ## Clases y Módulos
 
 ## include()
