@@ -163,7 +163,7 @@ El método **includes()** determina si un array incluye un determinado elemento 
 
 `
 
-##Async y Await
+## Async y Await  
 
 `
 
@@ -200,9 +200,50 @@ El método **includes()** determina si un array incluye un determinado elemento 
 
 ## Promise Finally
 
+`
+
+        const helloWorld = () => {
+          return new Promise((resolve, reject) => {
+            true
+              ? setTimeout(() => resolve("Hello World"), 2000)
+              : reject(new Error("Test Error"));
+          });
+        };
+
+        helloWorld()
+          .then((response) => console.log(response))
+          .catch((error) => console.log(error))
+          .finally(() => console.log("Finalizó"));
+  
+
+`
+
 ## Trim
 
+`
+
+        // Trim
+        let hello = "                      hello world";
+        console.log(hello);
+        console.log(hello.trimStart()); // hello world
+
+        let hello2 = "hello world                  ";
+        console.log(hello2);
+        console.log(hello2.trimEnd()); // hello world
+
+`
+
 ## From Entries
+
+`
+
+        // From Entries
+        let entries = [['name', 'Brandon'],['age', 18 ]];
+        console.log(Object.fromEntries(entries));
+        // Object.entries(), y hace lo inverso es decir de una matriz clave/valor a un objeto con
+
+
+`
 
 ### TC39
 
