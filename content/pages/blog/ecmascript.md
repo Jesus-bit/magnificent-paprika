@@ -40,3 +40,23 @@ reject('Woops!!');
 helloPromise()
 .then(response => console.log(response))
 .catch(error => console.log(error));
+
+## Clases y Módulos
+
+## include()
+
+El método **includes()** determina si un array incluye un determinado elemento y devuelve true o false dependiendo si se encuentra o no.
+
+## Object entries
+
+## Spread Operator
+
+## Promise Finally
+
+## Trim
+
+## From Entries
+
+### TC39
+
+EL TC39 es el comité que se encarga de recibir y evaluar las propuestas para agregar a el estándar ECMAScript su pagina oficial es [ESTA](https://tc39.es/)
