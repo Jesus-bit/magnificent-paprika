@@ -111,7 +111,92 @@ El método **includes()** determina si un array incluye un determinado elemento 
 `
 ## Object entries
 
+`
+
+        // Object entries, devuelve los valores de una matriz
+        const data = {
+            frontend: 'Jesus',
+            backend: 'Natalia',
+            design: 'Franco'
+        }
+
+        const entries = Object.entries(data);
+        console.log(entries);
+        // Resultado
+        // [
+        //	['frontend', 'Jesus']
+        //	['backend', 'Natalia']
+        //	['desing', 'Franco']
+        // ]
+
+
+`
+
+
 ## Spread Operator
+
+`
+
+        // Spread Operator
+        const obj = {
+          name: "Jesus",
+          age: 24,
+          country: "México",
+        };
+
+        let { name, ...all } = obj;
+        console.log(all); // { age: 24, country: "México" }
+
+        // Porpagation Properties
+        const person = {
+          name: "Bernardo",
+          age: 32,
+        };
+
+        const personInformation = {
+          ...person,
+          country: "MX",
+        };
+        console.log(`personInformation: `, personInformation); 
+        //person information {name: "Bernardo", age: 32, country: "Mx"}
+
+
+`
+
+##Async y Await
+
+`
+
+
+        const helloWorld = () => {
+            return new Promise((resolve, reject)=>{
+                (false)
+                    ? setTimeout(()=> resolve('Jesus'),2500)
+                    :reject(new Error('Test Error'))
+            })
+        }
+
+        const helloAsync = async () => {
+            const hello = await helloWorld();
+            console.log(hello);
+        }
+
+        helloAsync();
+
+        // Async ejecutado correctamente
+        const anotherFunction = async () => {
+            try {
+                const hello = await helloWorld();
+                console.log(hello);
+            } catch (error) {
+                console.log(error);
+            }
+        }
+
+        anotherFunction();
+
+`
+
 
 ## Promise Finally
 
