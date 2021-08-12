@@ -15,9 +15,28 @@ layout: post
 thumb_image: /images/1da09a35-1e5c-4aef-9317-e88f2cb445d1.png
 image: /images/1da09a35-1e5c-4aef-9317-e88f2cb445d1.png
 ---
-## Lorem ipsum
+## ¿Que es ECMAScript?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**ECMAScript** es la especificación del lenguaje propuestro por **ECMA** Internacional que es una institucíon encargada de los estándares, y JavaScript es el lenguaje de programación que utiliza esta especificación para trabajar sobre estas características que van siendo añadidas año con año desde el 2015.
 
-- Lorem ipsum
-- dolor sit amet
+Cada junio de cada año, y esto es mediante una propuesta, y un comité encargado de revisar estas características que se añadirán al lenguaje.
+
+Lo mas relevante desde el ECMAScript 6 es:
+
+## Arrow Functions y Promesas
+
+**Arrow Functions:  =>**
+
+const helloPromise = () => {
+return new Promise((resolve, reject)=>{
+if(false){
+resolve('Hello!');
+} else{
+reject('Woops!!');
+}
+});
+}
+
+helloPromise()
+.then(response => console.log(response))
+.catch(error => console.log(error));
