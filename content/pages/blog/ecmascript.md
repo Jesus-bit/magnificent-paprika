@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/1da09a35-1e5c-4aef-9317-e88f2cb445d1.png
+image: /images/1da09a35-1e5c-4aef-9317-e88f2cb445d1.png
 ---
 ## Lorem ipsum
 
