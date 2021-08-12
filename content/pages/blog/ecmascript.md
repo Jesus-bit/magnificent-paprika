@@ -48,10 +48,67 @@ Lo mas relevante desde el ECMAScript 6 es:
 `
 ## Clases y Módulos
 
+
+`
+
+        // Clases
+        class calculator {
+          constructor() {
+            this.valueA = 0;
+            this.valueB = 0;
+          }
+          sum(valueA, valueB) {
+            this.valueA = valueA;
+            this.valueB = valueB;
+            return this.valueA + this.valueB;
+          }
+        }
+
+        const calc = new calculator();
+        console.log(calc.sum(4, 2)); //6
+
+                // Import
+        //Podemos importar solo lo que vamos a utilizar así:
+
+        import { hello } from'./module'
+
+        console.log(hello());
+        //También podemos importar más de un elemento separando con una coma
+
+        import { hello, bye } from'./module'
+
+        console.log(hello())
+        console.log(bye)
+
+        //Podemos cambiarles los nombres
+        import { hello, bye as byeGreeting } from'./module'
+
+        console.log(hello())
+        console.log(byeGreeting)
+        //Y podemos importar todas las funciones que haya en el archivo
+
+        import * as allGreetings from'./module'
+
+        console.log(allGreetings.hello())
+        console.log(allGreetings.bye);
+
+
+`
 ## include()
 
 El método **includes()** determina si un array incluye un determinado elemento y devuelve true o false dependiendo si se encuentra o no.
 
+`
+        // Antes se utilizaba indexOf para valiar si existia el valor
+
+        let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+        if(numbers.includes(0)){
+            console.log('Si está el número.');
+        } else{
+            console.log('No está el número.');
+        }
+
+`
 ## Object entries
 
 ## Spread Operator
