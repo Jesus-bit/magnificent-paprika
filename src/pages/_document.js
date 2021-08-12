@@ -36,6 +36,7 @@ export default class MyDocument extends Document {
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4861930280475932" crossorigin="anonymous"></script>
                     <NextScript />
                 </body>
             </Html>
